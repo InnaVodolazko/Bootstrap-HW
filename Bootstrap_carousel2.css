@@ -1,0 +1,24 @@
+
+  .img-responsive{
+    display: block;
+    height: auto;
+    max-width: 50%;
+    /* дополнительно их выровняем по центру */
+    margin-left: auto;
+    margin-right: auto;
+    /* и добавим внешний нижний отступ */
+    margin-bottom: 15px;
+  }
+  .img-thumbnail{
+      width: 200px;
+      height: 200px;
+      border-radius: 50%;
+      border: 3px white;
+  }
+  h2, p {
+    text-align: center;
+  }
+  button{
+   margin-left: 130px;
+    }
+
